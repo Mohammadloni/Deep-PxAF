@@ -1,4 +1,4 @@
-# Deep-PxAF: Accurate Detection of Paroxysmal Atrial Fibrillation with Certified-GAN and Neural Architecture Search
+# Deep-PxAF: Accurate Detection of Paroxysmal Atrial Fibrillation with Certified-GAN and Neural Architecture Search (Nature Scientific Reports)
 
 This paper presents the results of a novel machine learning method for detecting Paroxysmal
 Atrial Fibrillation (Deep-PxAF), a pathological characteristic of Electrocardiogram (ECG) that can lead
